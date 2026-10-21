@@ -1,4 +1,3 @@
-
 const CONFIG = {
   // Coordonnées de secours si la géolocalisation échoue
   defaultLat: 48.8566,
